@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software enginner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan0042&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan0042" /> </p>
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **harshvardhan4252@gmail.com**
 
