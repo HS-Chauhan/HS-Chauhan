@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshvardhan Singh Chauhan</h1>
+<h1 align="center">Heyyow 👋, I'm Harshvardhan Singh Chauhan</h1>
 <h3 align="center">A passionate second year student @ Chitkara University</h3>
 
 # 💫 About Me:
