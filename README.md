@@ -4,6 +4,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Software development using Java<br>🌱 I’m currently learning C, Linux Administrations<br>💬 Ask me about C++, Game development<br>⚡ Fun fact : I am very friendly and I adapt to changes very easily<br>✈️ How to reach me : harshvardhan4252@gmail.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/himanshu jangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu jangra" height="30" width="40" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kingspin#6773) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-chauhan-a9994a235/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20983664/harshvardhan-singh-chauhan?tab=profile) 
