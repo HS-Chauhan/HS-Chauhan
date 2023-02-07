@@ -2,9 +2,9 @@
 <h3 align="center">A passionate second year student @ Chitkara University</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.teahub.io/photos/full/87-879470_computer-programming-coding-technology.jpg">
-# 💫 About Me:
 
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://www.teahub.io/photos/full/87-879470_computer-programming-coding-technology.jpg">
 🔭 I’m currently working on Software development using Java<br>🌱 I’m currently learning C, Linux Administrations<br>💬 Ask me about C++, Game development<br>⚡ Fun fact : I am very friendly and I adapt to changes very easily<br>✈️ How to reach me : harshvardhan4252@gmail.com
 
 
