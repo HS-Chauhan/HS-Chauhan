@@ -2,7 +2,7 @@
 <h3 align="center">A passionate second year student @ Chitkara University</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Software development using Java<br>🌱 I’m currently learning C, Linux Administrations<br>💬 Ask me about C++, Game development<br>⚡ Fun fact I have high general knowledge and keep up to date with world affairs and I adapt to changes very easily
+🔭 I’m currently working on Software development using Java<br>🌱 I’m currently learning C, Linux Administrations<br>💬 Ask me about C++, Game development<br>⚡ Fun fact : I have high general knowledge and keep up to date with world affairs and I adapt to changes very easily<br>✈️ How to reach me : harshvardhan4252@gmail.com
 
 
 ## 🌐 Socials:
