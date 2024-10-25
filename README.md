@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Harshvardhan Singh Chauhan</h1>
-<h3 align="center">A passionate Third year student @ Chitkara University</h3>
+<h3 align="center">A passionate Fourth year student @ Chitkara University</h3>
 
 
 
