@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://www.teahub.io/photos/full/87-879470_computer-programming-coding-technology.jpg">
-🔭 I’m currently working on Software development using Java<br>🌱 I’m currently learning C, Linux Administrations<br>💬 Ask me about C++, Game development<br>⚡ Fun fact : I am very friendly and I adapt to changes very easily<br>✈️ How to reach me : harshvardhan4252@gmail.com
+🔭 I’m currently working on NextJs 15 Web Projects<br>🌱 I’m currently learning NextJS 15<br>💬 Ask me about DSA, ML, NLP and DL<br>⚡ Fun fact : I am very friendly and I adapt to changes very easily<br>✈️ How to reach me : harshvardhan4252@gmail.com
 
 
 
